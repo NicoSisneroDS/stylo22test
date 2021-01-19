@@ -1,0 +1,13 @@
+:root{
+    --darknav: #00010a;
+}
+
+.navbar{
+    background-color: var(--darknav) !important;
+}
+
+.img-1{
+    background-image: url("/resources/left.jpg");
+    background-size: cover;
+    background-position: center;
+}
